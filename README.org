@@ -1,0 +1,11 @@
+#+TITLE: Jove Mode Debugging Tools
+#+AUTHOR: John Hooks
+#+EMAIL: john@bitmachina.com
+#+DATE: <2017-05-05 Fri>
+#+STARTUP: indent
+#+STARTUP: hidestars
+
+** About
+   This repository contains tools for examining the abstract syntax
+   tree created by [[https://github.com/johnhooks/jove][Jove Mode]]. It is used to aid in the debugging of
+   the Jove Mode parser.
